@@ -1,0 +1,21 @@
+.btn {
+  color: #db1c48;
+  font-family: 'roboto';
+  font-size: 15px;
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: #ffffff;
+}
+.activeButton {
+  background-color: #db1c48;
+  color: #ffffff;
+  border: none;
+  outline: none;
+}
+.list-item{
+  margin: 10px;
+}
